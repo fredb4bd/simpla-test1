@@ -1,8 +1,8 @@
 {
   "type": "Text",
   "data": {
-    "text": "<p>this is a text</p><p>with 2 lines</p>"
+    "text": "<p>this is a text</p><p>with 2 lines</p><p><strong>and another line in bold</strong></p><p><a href=\"https://docs.simplajs.org/guides/get-started\">with a link</a></p>"
   },
   "path": "/text",
-  "updatedAt": "2018-02-28T13:42:05.682Z"
+  "updatedAt": "2018-02-28T13:48:28.683Z"
 }
